@@ -1,0 +1,21 @@
+c:\users\umut nayir\documents\visual studio 2015\Projects\ETicaretAspNet\Web.ORM\bin\Debug\Web.ORM.dll
+c:\users\umut nayir\documents\visual studio 2015\Projects\ETicaretAspNet\Web.ORM\bin\Debug\Web.ORM.pdb
+c:\users\umut nayir\documents\visual studio 2015\Projects\ETicaretAspNet\Web.ORM\obj\Debug\Web.ORM.csprojResolveAssemblyReference.cache
+c:\users\umut nayir\documents\visual studio 2015\Projects\ETicaretAspNet\Web.ORM\obj\Debug\Web.ORM.dll
+c:\users\umut nayir\documents\visual studio 2015\Projects\ETicaretAspNet\Web.ORM\obj\Debug\Web.ORM.pdb
+C:\Users\Umut NAYIR\Documents\Visual Studio 2015\Projects\ETicaretAspNet\Web.ORM\bin\Debug\Web.Entity.dll
+C:\Users\Umut NAYIR\Documents\Visual Studio 2015\Projects\ETicaretAspNet\Web.ORM\bin\Debug\Web.Entity.pdb
+C:\Users\Wissen\Desktop\ETicaretAspNet\Web.ORM\bin\Debug\Web.ORM.dll
+C:\Users\Wissen\Desktop\ETicaretAspNet\Web.ORM\bin\Debug\Web.ORM.pdb
+C:\Users\Wissen\Desktop\ETicaretAspNet\Web.ORM\bin\Debug\Web.Entity.dll
+C:\Users\Wissen\Desktop\ETicaretAspNet\Web.ORM\bin\Debug\Web.Entity.pdb
+C:\Users\Wissen\Desktop\ETicaretAspNet\Web.ORM\obj\Debug\Web.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\ETicaretAspNet\Web.ORM\obj\Debug\Web.ORM.dll
+C:\Users\Wissen\Desktop\ETicaretAspNet\Web.ORM\obj\Debug\Web.ORM.pdb
+C:\Users\Umut NAYIR\Desktop\ETicaretAspNet\Web.ORM\bin\Debug\Web.ORM.dll
+C:\Users\Umut NAYIR\Desktop\ETicaretAspNet\Web.ORM\bin\Debug\Web.ORM.pdb
+C:\Users\Umut NAYIR\Desktop\ETicaretAspNet\Web.ORM\bin\Debug\Web.Entity.dll
+C:\Users\Umut NAYIR\Desktop\ETicaretAspNet\Web.ORM\bin\Debug\Web.Entity.pdb
+C:\Users\Umut NAYIR\Desktop\ETicaretAspNet\Web.ORM\obj\Debug\Web.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Umut NAYIR\Desktop\ETicaretAspNet\Web.ORM\obj\Debug\Web.ORM.dll
+C:\Users\Umut NAYIR\Desktop\ETicaretAspNet\Web.ORM\obj\Debug\Web.ORM.pdb

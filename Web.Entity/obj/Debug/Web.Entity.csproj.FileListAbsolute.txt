@@ -1,0 +1,10 @@
+c:\users\umut nayir\documents\visual studio 2015\Projects\ETicaretAspNet\Web.Entity\bin\Debug\Web.Entity.dll
+c:\users\umut nayir\documents\visual studio 2015\Projects\ETicaretAspNet\Web.Entity\bin\Debug\Web.Entity.pdb
+c:\users\umut nayir\documents\visual studio 2015\Projects\ETicaretAspNet\Web.Entity\obj\Debug\Web.Entity.dll
+c:\users\umut nayir\documents\visual studio 2015\Projects\ETicaretAspNet\Web.Entity\obj\Debug\Web.Entity.pdb
+C:\Users\Umut NAYIR\Documents\Visual Studio 2015\Projects\ETicaretAspNet\Web.Entity\obj\Debug\Web.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\ETicaretAspNet\Web.Entity\bin\Debug\Web.Entity.dll
+C:\Users\Wissen\Desktop\ETicaretAspNet\Web.Entity\bin\Debug\Web.Entity.pdb
+C:\Users\Wissen\Desktop\ETicaretAspNet\Web.Entity\obj\Debug\Web.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\ETicaretAspNet\Web.Entity\obj\Debug\Web.Entity.dll
+C:\Users\Wissen\Desktop\ETicaretAspNet\Web.Entity\obj\Debug\Web.Entity.pdb
